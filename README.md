@@ -6,7 +6,7 @@
 
 ## 🔗 Try It Live
 
-👉 [Click here to open TaskNest](https://your-streamlit-link-here)
+👉 [Click here to open TaskNest](https://tasknest1.streamlit.app/)
 
 > Replace the above link with your actual Streamlit Cloud URL after deployment.
 
